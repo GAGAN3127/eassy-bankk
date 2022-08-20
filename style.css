@@ -67,6 +67,7 @@ header {
     background-color: var(--white);
     position: relative;
     z-index: 9999999;
+    top: -12px;
 }
 
 .logo {
