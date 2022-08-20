@@ -314,6 +314,9 @@ footer {
 
 /* MOBILE  */
 @media screen and (max-width: 832px) {
+     header{
+        top: -12px;
+    }
     nav .btn {
         display: none;
     }
